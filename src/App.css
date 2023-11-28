@@ -10,7 +10,14 @@
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
-  }
+
+
+} 
+
+}
+body{
+  background-image: url('https://cdn.punchng.com/wp-content/uploads/2023/09/19111651/UEFA-Champions-League.jpeg');
+  background-size: cover;
 }
 
 .App-header {
